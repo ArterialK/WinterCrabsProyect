@@ -12,3 +12,5 @@ Dandote la informacion que necesitas en todo momento
 
 ![WinterCrabs_Home](https://user-images.githubusercontent.com/42286659/146695529-2e2a212b-b59a-43d0-9495-e6c1048b740b.jpeg)
 
+![WinterCrabs_Acerca](https://user-images.githubusercontent.com/42286659/146695576-fa778440-46a2-4b7f-b72c-11c291a73c38.jpeg)
+
