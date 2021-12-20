@@ -6,6 +6,9 @@ WinterCrabs es la solución ideal para tus viajes a distintas playas de México,
 Pagina web
 https://sites.google.com/view/winter-crabs/p%C3%A1gina-principal
 
+![image](https://user-images.githubusercontent.com/42286659/146699508-8b276dc5-b0d4-4206-9ab2-3158f02797cb.png)
+
+
 Aplicacion movil
 Nuestra aplicación movil ofrece nuestros servicios WinterCrabs en la palma de tu mano
 ![WinterCrabs_Inicio](https://user-images.githubusercontent.com/42286659/146695486-64dfbbb9-256c-45c1-8443-e66a810ad95b.jpeg)
