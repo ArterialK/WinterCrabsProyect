@@ -8,6 +8,11 @@ https://sites.google.com/view/winter-crabs/p%C3%A1gina-principal
 
 ![image](https://user-images.githubusercontent.com/42286659/146699508-8b276dc5-b0d4-4206-9ab2-3158f02797cb.png)
 
+Mientras navegas en la pagina web encontraras varias de las funciones que tiene nuestra solucion como la consulta de temperatura, concurrencia, nivel de sargazo, etc.
+
+![image](https://user-images.githubusercontent.com/42286659/146699601-5d74ddc3-a304-4db2-82a8-e657a2e3a8d9.png)
+
+
 
 Aplicacion movil
 Nuestra aplicación movil ofrece nuestros servicios WinterCrabs en la palma de tu mano
